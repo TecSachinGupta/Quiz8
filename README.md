@@ -1,10 +1,10 @@
 # Quiz8
 
 1. Which of the following is true of unsupervised and supervised learning during training of a network? (check all that apply)
-- [x] In supervised learning, inputs are provided to the network
- [] In unsupervised learning, correct outputs are provided to the network
-- [x] In unsupervised learning, inputs are provided to the network
-- [x] In supervised learning, correct outputs are provided to the network
+ - [x] In supervised learning, inputs are provided to the network
+ - [] In unsupervised learning, correct outputs are provided to the network
+ - [x] In unsupervised learning, inputs are provided to the network
+ - [x] In supervised learning, correct outputs are provided to the network
 
 2. Recall the perceptron, which classifies inputs as belonging to one of two categories, and correspondingly outputs either +1 or -1. Consider a perceptron that receives two inputs u_1u 1​	  and u_2u2​ with synaptic weights 1 and 3 respectively. If the threshold \muμ for the perceptron is 0, which of the following inputs [u_1 u_2][u1​u2​] will lead to a positive output from perceptron? (check all that apply)
 - [x] [-1 1]
