@@ -2,7 +2,7 @@
 
 1. Which of the following is true of unsupervised and supervised learning during training of a network? (check all that apply)
 - [x] In supervised learning, inputs are provided to the network
-- [] In unsupervised learning, correct outputs are provided to the network
+ [] In unsupervised learning, correct outputs are provided to the network
 - [x] In unsupervised learning, inputs are provided to the network
 - [x] In supervised learning, correct outputs are provided to the network
 
